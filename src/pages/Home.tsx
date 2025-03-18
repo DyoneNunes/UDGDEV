@@ -23,7 +23,7 @@ const HomePage = () => {
                     { image: require("../assets/images/Lion.jpg"), imageWebp: require("../assets/images/Lion.webp"), alt: "Lion", title: "Lion", text: "Descubra mais!", date: "Realismo / Oriental", route: "/Lion" },
                     { image: require("../assets/images/Jv.jpg"), imageWebp: require("../assets/images/JvTattoo.webp"), alt: "JvTattoo", title: "JvTattoo", text: "Tatuagens incríveis!", date: "Pontilismo / Floral", route: "/JvTattoo" },
                     { image: require("../assets/images/Moretto.jpg"), imageWebp: require("../assets/images/Moretto.webp"), alt: "Moretto", title: "Moretto", text: "Estilo único!", date: "Realismo / BlackWork", route: "/Moretto" },
-                    { image: require("../assets/images/Scheffer.jpg"), imageWebp: require("../assets/images/logoUndergroundTattooStudio.webp"), alt: "Scheffer", title: "Scheffer", text: "Criatividade pura!", date: "Tattoo / Bodypiercing", route: "/Scheffer" }
+                    { image: require("../assets/images/Scheffer.jpg"), imageWebp: require("../assets/images/Scheffer.webp"), alt: "Scheffer", title: "Scheffer", text: "Criatividade pura!", date: "Tattoo / Bodypiercing", route: "/Scheffer" }
                 ]}
                 />
             <PopularHikesSection
